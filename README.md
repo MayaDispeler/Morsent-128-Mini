@@ -27,7 +27,7 @@ tags:
 <div align="center">
   <h1>Morsent-128T</h1>
   <p><i>Compact GPT-2 model for Morse code translation, decoding, and sci-fi humor — all in 128 tokens or less.</i></p>
-  <img src="https://github.com/MayaDispeler/Morsent-128-Mini/blob/main/morsent-banner.png?raw=true" width="70%" />
+  <img src="https://github.com/MayaDispeler/Morsent-128-Mini/blob/main/morsent-banner.png" width="70%" />
 </div>
 
 ---
