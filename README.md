@@ -27,14 +27,14 @@ tags:
 <div align="center">
   <h1>Morsent-128T</h1>
   <p><i>Compact GPT-2 model for Morse code translation, decoding, and sci-fi humor — all in 128 tokens or less.</i></p>
-  <img src="morsent-banner.png" width="70%" />
+  <img src="https://raw.githubusercontent.com/MayaDispeler/Morsent-128-Mini/main/morsent-banner.png" width="70%" />
 </div>
 
 ---
 
 ## 🧠 About the Model
 
-**Morsent-128T** is a tiny fine-tuned language model based on GPT-2 that’s trained to:
+**Morsent-128T** is a tiny fine-tuned language model based on GPT-2 that's trained to:
 
 - 🔡 Translate English → Morse Code
 - 📻 Decode Morse Code → English
@@ -103,4 +103,4 @@ Questions? Bugs? Want to collab?
 
 📫 Reach me at: srihariv4942@gmail.com
 
-# “Sometimes the smallest minds deliver the weirdest wonders.” – Morsent
+# "Sometimes the smallest minds deliver the weirdest wonders." – Morsent
