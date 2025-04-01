@@ -101,6 +101,6 @@ TARS-style humor inspired by sci-fi language modeling
 🗣 Contact
 Questions? Bugs? Want to collab?
 
-📫 Reach me at: ksvhari007@gmail.com
+📫 Reach me at: srihariv4942@gmail.com
 
 # “Sometimes the smallest minds deliver the weirdest wonders.” – Morsent
